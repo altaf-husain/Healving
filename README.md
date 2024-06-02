@@ -1,5 +1,5 @@
 # Healving
-# Daily Calorie Counter Application Healving for Managing Balanced Diet Needs
+# Daily Calorie Counter Application for Managing Balanced Diet Needs
 
 Healving is an application designed to help users calculate their daily calorie needs to maintain a balanced diet. This application is programmed using Python, and the user interface is designed with QT Designer.
 
